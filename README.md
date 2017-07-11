@@ -1,2 +1,2 @@
 # Real-git
-This is fir tutorial purpose
+This is for tutorial purpose
